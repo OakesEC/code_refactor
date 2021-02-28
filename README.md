@@ -7,17 +7,21 @@
 ###### It's also good practice to follow the Scout Rule (leave the code cleaner than you found it).
 
 
-## Screenshots
+## Some Exmaples of Requested Improvements
+
+![Improving Contrast](assets/images/contrast.png)
+
+![Updating to Semantic Elements](assets/images/semantic-elements.png)
+
+## Some Examples of Code Cleanup 
 
 ![Fixing the Broken Link](assets/images/broken-link.png)
-
-![Improving Contrast for Accessibility](assets/images/contrast.png)
 
 ![Consolidating Duplicate Code](assets/images/duplicate-code.png)
 
 ![Consolidating Duplicate Code](assets/images/duplicate-code-2.png)
 
-![Updating to Semantic Elements](assets/images/semantic-elements.png)
+
 
 
 ## Credits/Resources:
