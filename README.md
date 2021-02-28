@@ -55,5 +55,5 @@
 * https://www.youtube.com/watch?v=R6euByfGaN4
 
 ## Contact
-###### I can be reached at :envelope: liz77oakes@gmail.com
+###### I can be reached at liz77oakes@gmail.com
 
