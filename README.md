@@ -21,11 +21,11 @@
 
 ## Some Exmaples of Requested Improvements
 
-##### Increased Contrast for Accessibility
-![Increase Contrast](assets/images/contrast.png)
-
 ##### Updating to Semantic Elements
 ![Updating to Semantic Elements](assets/images/semantic-elements.png)
+
+##### Increased Contrast for Accessibility
+![Increase Contrast](assets/images/contrast.png)
 
 ##### Adding Focus to Navigation With Hover
 ![Adding Focus to Nav With Hover](assets/images/nav-focus.png)
