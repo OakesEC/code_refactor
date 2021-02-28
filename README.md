@@ -6,7 +6,7 @@
 
 ## Description
 
-###### I was tasked with refactoring (updating) the existing codebase of Horiseon's webpage to meet accessibilty standards, so that their site would be optimized by search engines.  This includes the use of more descriptive (semantic) elements, ensuring the HTML structure follows a logical pattern and headings are in sequential order, there are alternative attributes (descriptions) for images,  and a concise, descriptive title.
+###### I was tasked with refactoring (updating) the existing codebase of Horiseon's webpage to meet accessibilty standards, so that their site would be optimized by search engines.  This includes the use of more descriptive (semantic) elements, ensuring the HTML structure follows a logical pattern and that the headings are in sequential order, there are alternative attributes (descriptions) for images,  and a concise, descriptive title.
 
 ###### It's also good practice that I follow the Scout Rule (leave the code cleaner than I found it).
 
@@ -24,7 +24,7 @@
 ## Some Exmaples of Requested Improvements
 
 ##### Increased Contrast for Accessibiliy
-![Increase Contrast](assets/images/contrast.png)
+![Increase Contrast](assets/images/Contrast.png)
 
 ##### Updating to Semantic Elements
 ![Updating to Semantic Elements](assets/images/semantic-elements.png)
