@@ -9,16 +9,22 @@
 
 ## Some Exmaples of Requested Improvements
 
+##### Improving Contrast for Accessibilty
 ![Improving Contrast](assets/images/contrast.png)
 
+##### Updating to Semantic Elements
 ![Updating to Semantic Elements](assets/images/semantic-elements.png)
+
+##### Adding Focus to Navigation With Hover
+![Adding Focus to Nav With Hover](assets/images/nav-focus.png)
 
 ## Some Examples of Code Cleanup 
 
+##### Fixing the Broken Link
 ![Fixing the Broken Link](assets/images/broken-link.png)
 
+##### Consolidating Duplicate Code
 ![Consolidating Duplicate Code](assets/images/duplicate-code.png)
-
 ![Consolidating Duplicate Code](assets/images/duplicate-code-2.png)
 
 
