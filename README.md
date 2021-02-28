@@ -1,6 +1,8 @@
 # Horiseon Code Refactor
 
-## [The Repository](https://oakesec.github.io/code_refactor/)
+## [The Repository](https://github.com/OakesEC/code_refactor)
+
+### [Horiseon Website](https://oakesec.github.io/code_refactor/)
 
 ## Description
 
@@ -21,11 +23,11 @@
 
 ## Some Exmaples of Requested Improvements
 
+##### Increased Contrast for Accessibiliy
+![Increase Contrast](assets/images/contrast.png)
+
 ##### Updating to Semantic Elements
 ![Updating to Semantic Elements](assets/images/semantic-elements.png)
-
-##### Increased Contrast for Accessibility
-![Increase Contrast](assets/images/contrast.png)
 
 ##### Adding Focus to Navigation With Hover
 ![Adding Focus to Nav With Hover](assets/images/nav-focus.png)
