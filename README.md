@@ -1,7 +1,6 @@
 # Horiseon Code Refactor
 
-## The Repository
-<a href="https://oakesec.github.io/code_refactor/">The Repository</a>
+## [The Repository](https://oakesec.github.io/code_refactor/)
 
 ## Description
 
@@ -22,7 +21,7 @@
 
 ## Some Exmaples of Requested Improvements
 
-##### Improving Contrast for Accessibilty
+##### Increased Contrast for Accessibility
 ![Increase Contrast](assets/images/contrast.png)
 
 ##### Updating to Semantic Elements
@@ -41,7 +40,7 @@
 ![Consolidating Duplicate Code](assets/images/duplicate-code-2.png)
 
 
-## Credits/Resources:
+## Resources:
 * https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform
 * http://wiki.c2.com/?DontRepeatYourself
 * https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines#problems_solved_by_html5
@@ -55,4 +54,6 @@
 * https://webaim.org/techniques/skipnav/
 * https://www.youtube.com/watch?v=R6euByfGaN4
 
-## License
+## Contact
+###### I can be reached at :envelope: liz77oakes@gmail.com
+
