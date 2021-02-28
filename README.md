@@ -13,6 +13,8 @@ To impress clients, you should always go the extra mile and improve their codeba
 
 ![Broken Link](https://user-images.githubusercontent.com/78812601/109421709-733f6a80-79a6-11eb-8c11-d6c1edbf4068.png)
 
+![Broken Link](assets/images/broken-link.png)
+
 ![Contrast](https://user-images.githubusercontent.com/78812601/109421776-bbf72380-79a6-11eb-9115-433109a87266.png)
 
 ![duplicate code 2](https://user-images.githubusercontent.com/78812601/109421784-c4e7f500-79a6-11eb-95c6-520157023360.png)
